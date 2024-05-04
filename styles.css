@@ -22,7 +22,7 @@ li {
     font-weight: 700;
     letter-spacing: 1px;
     text-transform: uppercase;
-    margin-top: 5px;
+    margin-top: 10px;
     margin-right: 5px;
     
 }
@@ -147,4 +147,44 @@ li {
     .dropdown li:hover {
       background-color: #6433B4;
     }
+  }
+
+  .carousel {
+    margin-top: 10px;
+  }
+
+  .carousel-item {
+    height: 32rem;
+    background-color: #070000;
+    color: white;
+    position: relative;
+    
+
+  }
+
+  .container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-bottom: 50px;
+  }
+  
+  .overlay-image {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.5;
+
+
+  }
+  .item img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-height: 500px;
   }
