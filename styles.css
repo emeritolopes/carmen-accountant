@@ -253,6 +253,7 @@ li {
     font-size: 22px;
     color: #d6d6d6;
     margin-right: 17px;
+    margin-left: 5px;
     transition: all .40s ease;
     
   }
