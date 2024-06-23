@@ -37,6 +37,7 @@ li {
     padding: 20px;
     background-color: #6433B4;
     color: #fff;
+    position: fixed;
   }
   
   .nav-links a {
@@ -211,7 +212,7 @@ li {
   }
   .footer img {
     margin-left: 10px;
-    margin-top: 10px;
+    margin-top: 20px;
   }
 
   .footer p {
