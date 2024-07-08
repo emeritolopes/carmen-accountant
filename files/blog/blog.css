@@ -150,3 +150,9 @@ li {
       background-color: #6433B4;
     }
   }
+
+  .card {
+    width: 30px;
+    height: 100%;
+    margin-left: 20px;
+  }
